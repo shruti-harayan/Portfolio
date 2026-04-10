@@ -1,0 +1,12 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth;
+}
+.card-tilt {
+  transform-style: preserve-3d;
+  transition: transform 0.2s ease;
+}
+
+.card-tilt:hover {
+  transform: rotateX(6deg) rotateY(-6deg);
+}
