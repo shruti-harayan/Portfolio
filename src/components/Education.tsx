@@ -5,7 +5,7 @@ export default function Education() {
     {
       degree: "M.Sc. Information Technology",
       institute: "Ramanand Arya D.A.V College, Mumbai University",
-      grade: "9.5 CGPA",
+      grade: "8.98 CGPA",
       year: "2024 – 2026",
     },
     {
