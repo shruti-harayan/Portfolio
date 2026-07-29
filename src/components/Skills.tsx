@@ -14,6 +14,7 @@ import {
   SiSqlite,
   SiGit,
   SiJupyter,
+  SiDocker,
 } from "react-icons/si";
 import Reveal from "./Reveal";
 
@@ -36,6 +37,7 @@ const skillsData = [
 
   { name: "Git", icon: <SiGit />, category: "Tools" },
   { name: "Jupyter", icon: <SiJupyter />, category: "Tools" },
+  { name: "Docker", icon: <SiDocker />, category: "Tools" },
 ];
 
 const filters = [
